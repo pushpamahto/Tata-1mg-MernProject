@@ -118,7 +118,7 @@ After submitting the payment details you will get `Payment Successful` or `Payme
 ![paymentsuccessful](https://github.com/user-attachments/assets/012cc2f6-298d-4491-b37b-a3e98f7aeb96)
 
 
-## apyment failed
+## Payment failed
 
 ![paymentfailed](https://github.com/user-attachments/assets/e34188d8-a075-42b9-bb1c-777ca6326e73)
 
