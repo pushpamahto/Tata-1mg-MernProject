@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/pushpamahto/Tata-1mg-MernProject/issues"
   },
-  "homepage": "https://github.com/pushpamahto/Tata-1mg-MernProject#readme"
+  "homepage": "https://github.com/pushpamahto/Tata-1mg-MernProject#readme",
+  "dependencies": {
+    "build": "^0.1.4"
+  }
 }
