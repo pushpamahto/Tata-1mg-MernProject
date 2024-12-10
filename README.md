@@ -38,8 +38,7 @@
 
 Tata 1mg is India’s leading consumer health platform. It provides services, including e-pharmacy, diagnostics, e-consultation and health content.
 
-![cover](<img width="559" alt="tata1mg" src="https://github.com/user-attachments/assets/575bbad7-4b9a-491f-a43f-8986eaa5cc7a">
-)
+
 
 <br/>
 
@@ -65,51 +64,50 @@ This is the main landing page of our website. Here, if you clicked on any naviga
 
 All pages are responsive.
 
-(![homepage](https://github.com/user-attachments/assets/c9939bce-71f7-4f53-a7bb-8781c110a842)
-)
+![homepage](https://github.com/user-attachments/assets/c9939bce-71f7-4f53-a7bb-8781c110a842)
+
 
 ### Sign up / Sign in Page -
 
 On this page, you can register a user. If the user is already registered, you can simply sign in by providing valid details of the user. We have used `Firebase Authentication` so, once you entered your mobile number you will get `OTP`, you need to enter that `OTP`.
 
 ![Sign In](<img width="894" alt="login" src="https://github.com/user-attachments/assets/99b9dd4d-21c5-45b7-a436-ef7b2e1fff85">
-)
+
 
 ### Search Functionality
 
 If you type any `keyword` the list of product will appear in the modal component. You can add it to cart directly from here or you can see more details by clicking on the product.
 We have added debouncing functionality on searching products.
 
-(![search](https://github.com/user-attachments/assets/e0bf0b00-565f-4fae-bbde-be4bd1993817)
-)
+![search](https://github.com/user-attachments/assets/e0bf0b00-565f-4fae-bbde-be4bd1993817)
 
 ### Products Page -
 
 Here users can browse, `filter` the product based on `brand and discound`, `sort` by `price or rating`, filter and sort will work togather and add items to the cart by clicking on the `Add to Cart` button.
 
-(![product](https://github.com/user-attachments/assets/239957e6-6c99-45f3-a746-bb3af79b50da)
-)
+![product](https://github.com/user-attachments/assets/239957e6-6c99-45f3-a746-bb3af79b50da)
+
 
 ### Cart Page -
 
 Here all the products added to the cart will be shown. On this page, you can `remove` the item from cart and also, `increase` or `decrease` count. By clicking on the `CHECKOUT` button you will be redirect to the checkout page.
 
-(![cart](https://github.com/user-attachments/assets/5987c37c-e31d-4c8a-afb0-ecd634793843)
-)
+![cart](https://github.com/user-attachments/assets/5987c37c-e31d-4c8a-afb0-ecd634793843)
+
 
 ### Order Summary Page -
 
 On this page you will see all details like, address, total bill, shipping address. By clicking on `Proceed to payment` button you will be redirect to payment page.
 
-(![ordersummary](https://github.com/user-attachments/assets/90d3e579-5b41-47a2-96fa-1c5aa9e130e9)
-)
+![ordersummary](https://github.com/user-attachments/assets/90d3e579-5b41-47a2-96fa-1c5aa9e130e9)
+
 
 ### Payment Page -
 
 
 
-(![payment](https://github.com/user-attachments/assets/82e9e59d-6184-4d2e-a4b4-ef772565038a)
-)
+![payment](https://github.com/user-attachments/assets/82e9e59d-6184-4d2e-a4b4-ef772565038a)
+
 
 ### Payment Status
 
