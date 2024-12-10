@@ -113,12 +113,13 @@ On this page you will see all details like, address, total bill, shipping addres
 
 After submitting the payment details you will get `Payment Successful` or `Payment Failed` depending on the `status of the payment`. Also, you received mail of bill details of order.
 
-<table>
-  <tr>
-    <td><img src="![paymentsuccessful](https://github.com/user-attachments/assets/bb3543fa-608a-42d8-86be-c0f396ad0d3b)
-" alt="Payment Successful" /></td>
-    <td><img src="![paymentfailed](https://github.com/user-attachments/assets/9922f922-37b5-4d11-a8c0-2e1da46e3053)
-" alt="Payment Failed" /></td>
-  </tr>
-</table>
+## Payment Successful
+
+![paymentsuccessful](https://github.com/user-attachments/assets/012cc2f6-298d-4491-b37b-a3e98f7aeb96)
+
+
+## apyment failed
+
+![paymentfailed](https://github.com/user-attachments/assets/e34188d8-a075-42b9-bb1c-777ca6326e73)
+
 
