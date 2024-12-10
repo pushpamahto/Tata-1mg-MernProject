@@ -30,12 +30,7 @@
   <img src="https://img.shields.io/badge/instamojo--nodejs-(0.0.5)-blue?style=for-the-badge&logo=instamojo&logoColor=white" alt="Instamojo" />
 </p>
 
-<h4 align="center">Deployed On:</h4>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
-</p>
 
 <h3 align="center"><a href="https://tata1mg-clone-nem201.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
 
@@ -58,15 +53,6 @@ Tata 1mg is India’s leading consumer health platform. It provides services, in
 -   Order Summary
 -   Instamojo Payment Gateway
 
-## 🚀 Our Team Members:-
-
--   Ramesh [[LinkedIn Profile](https://www.linkedin.com/in/ramesh-mane-268a0014a/)]
-
--   Rahul Singh [[LinkedIn Profile](https://www.linkedin.com/in/rahul-singh-437a4b234/)]
-
--   Shristi Kumari [[LinkedIn Profile](https://www.linkedin.com/in/shristi-kumari-b07927247/)]
-
--   Himanshu Sharma [[LinkedIn Profile](https://www.linkedin.com/in/himanshu-40a7b7135/)]
 
 ## Screenshots
 
@@ -111,13 +97,7 @@ On this page you will see all details like, address, total bill, shipping addres
 
 ### Payment Page -
 
-For payment, we have used `Instamojo Payment Gateway`. So, users need to add required card details.
 
-`Note:` For demo purpose use below card details
-
--   Card Number: `4242 4242 4242 4242`
--   Expiry: `01/25`
--   CVV: `111`
 
 ![Payment Page](./screenshots/payment.png)
 
@@ -132,45 +112,3 @@ After submitting the payment details you will get `Payment Successful` or `Payme
   </tr>
 </table>
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/rameshmane7218/humane-shelf-7123.git
-```
-
-Go to the project directory
-
-```bash
-  cd humane-shelf-7123
-```
-
-Install dependencies for frontend as well as backend
-
-```bash
-  cd frontend
-  npm install
-```
-
-```bash
-  cd ../backend
-  npm install
-```
-
-Start the localhost server
-
-```bash
-  cd ../frontend
-  npm start
-```
-
-## Deployed link
-
-### Vercel Link
-
-[https://tata1mg-clone-nem201.vercel.app/](https://tata1mg-clone-nem201.vercel.app/)
-
-## Show your support
-
-Give a ⭐️ if you like this project!

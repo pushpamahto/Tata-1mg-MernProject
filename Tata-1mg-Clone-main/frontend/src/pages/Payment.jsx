@@ -11,9 +11,9 @@ const Payment = () => {
       .post("http://localhost:5000/pay", {
         description: "1mg product purchase test mode",
         amount: "1000",
-        name: "Ramesh Mane",
-        email: "ramesh@gmail.com",
-        phone: "7218416746",
+        name: "Pushpa Mahto",
+        email: "pushpa@gmail.com",
+        phone: "7644028467",
       })
       .then((res) => {
         console.log(res);
